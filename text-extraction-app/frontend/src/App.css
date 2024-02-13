@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pop1 {
+    background: linear-gradient(90deg, #CC3838 0%, #ECBFBF 33%, #CD459F 64.33%, #F84545 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Clash Grotesk;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1.6px;
+}
+.pop2 {
+    /* background: linear-gradient(90deg, #CC3838 0%, #ECBFBF 33%, #CD459F 64.33%, #F84545 100%); */
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Clash Grotesk;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1.6px;
+}
+
+
+.main{
+    background-color: #111828;
+}

@@ -1,0 +1,21 @@
+id	name	aadhar_card_number	pan_card_number	driving_license_number	criminal_record
+1	Rajesh	987654321001	PPPPD1234A	RJ5619931012345	Was accused of Theft\na) Under IPC section 378 and CRPC section 379\nb) Is proven guilty and completed punishment
+2	Meena	123456789012	PPPPK5678B	RJ7119801123456	Was accused of Burglary\na) Under IPC section 452 and CRPC section 457\nb) Is proven guilty and on bail
+3	Shankar	876543210123	PPPPH9876C	RJ8120001221987	Was accused of Robbery\na) Under IPC section 392 and CRPC section 392\nb) Is proven guilty and completed punishment
+4	Geeta	234567890234	PPPPM4321D	RJ3420081319876	Was accused of Assault\na) Under IPC section 351 and CRPC section 350\nb) Is proven guilty and on bail
+5	Govind	765432109345	PPPPR8765E	RJ4520041412345	Was accused of Homicide\na) Under IPC section 299 and CRPC section 302\nb) Is proven guilty and completed punishment
+6	Poonam	345678901456	PPPPF3456F	RJ6931991519876	Was accused of Drug Possession\na) Under IPC section 27 and CRPC section 61\nb) Is proven guilty and on bail
+7	Laxman	654321098567	PPPPN7890G	RJ5720021612345	Was accused of Shoplifting\na) Under IPC section 379 and CRPC section 379\nb) Is proven guilty and completed punishment
+8	Kavita	456789012678	PPPPT2109H	RJ6320051719876	Was accused of Vandalism\na) Under IPC section 425 and CRPC section 427\nb) Is proven guilty and on bail
+9	Manoj	543210987789	PPPPX6543I	RJ7720031821987	Was accused of Fraud\na) Under IPC section 420 and CRPC section 417\nb) Is proven guilty and completed punishment
+10	Rekha	678901234890	PPPPU7891J	RJ2320001923456	Was accused of Identity Theft\na) Under IPC section 420A\nb) Is proven guilty and on bail
+11	Harish	890123456901	PPPPE2345K	RJ9420012021987	Was accused of Cybercrime\na) Under IPC section 66D and CRPC section 77B\nb) Is proven guilty and completed punishment
+12	Anjali	432109876012	PPPPQ8765L	RJ1520022112345	Was accused of Domestic Violence\na) Under IPC section 498A and CRPC section 125\nb) Is proven guilty and on bail
+13	Mahesh	210987654123	PPPPV7890M	RJ2719702219876	Was accused of Kidnapping\na) Under IPC section 363 and CRPC section 360\nb) Is proven guilty and completed punishment
+14	Sunita	789012345234	PPPPW1234N	RJ8120032321987	Was accused of Arson\na) Under IPC section 436 and CRPC section 436\nb) Is proven guilty and on bail
+15	Arvind	567890123345	PPPPO5678O	RJ3620012423456	Was accused of Carjacking\na) Under IPC section 390 and CRPC section 390\nb) Is proven guilty and completed punishment
+16	Kamla	321098765456	PPPPI4567P	RJ4820072519876	Was accused of Embezzlement\na) Under IPC section 403 and CRPC section 407\nb) Is proven guilty and on bail
+17	Deepak	678901234567	PPPPJ8901Q	RJ5620012621987	Was accused of Forgery\na) Under IPC section 465 and CRPC section 465\nb) Is proven guilty and completed punishment
+18	Rani	987654321678	PPPPZ3456R	RJ6920082723456	Was accused of Disorderly Conduct\na) Under IPC section 268 and CRPC section 510\nb) Is proven guilty and on bail
+19	Mohan	234567890789	PPPMS7890S	RJ7820032821987	Was accused of Stalking\na) Under IPC section 354D and CRPC section 365D\nb) Is proven guilty and completed punishment
+20	Neelam	876543210890	PPPPC2109T	RJ9120022923456	Was accused of Public Intoxication \n No specific IPC, under CRPC section 46 \n Is proven guilty and on bail

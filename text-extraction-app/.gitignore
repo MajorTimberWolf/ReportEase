@@ -1,0 +1,4 @@
+text-extraction-app/__pycache__
+text-extraction-app/.env
+text-extraction-app/node_modules/
+node_modules/

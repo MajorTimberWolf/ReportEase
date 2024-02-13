@@ -1,0 +1,6 @@
+huggingface_hub
+gradio
+pandas
+flask
+flask_cors
+subprocess.run
