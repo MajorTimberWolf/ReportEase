@@ -22,6 +22,7 @@ To run the project locally, follow these steps:
 - Navigate to the `backend` directory and start the Node.js server using `node server.js`
 - Navigate to the `text-extraction-app` directory and start the Python app using `python app.py`
 - Navigate to the `frontend` directory and start the React.js app using `npm start`
+- If js-pdf is not installed, do `npm install js-pdf`. 
 
 ## Usage
 
